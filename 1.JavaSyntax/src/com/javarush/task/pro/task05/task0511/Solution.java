@@ -17,7 +17,6 @@ public class Solution {
         for (int i = 0; i < s; i++) {
             int t = scan.nextInt();
             multiArray[i] = new int[t];
-            System.out.println(multiArray[i]);
         }
     }
 }
