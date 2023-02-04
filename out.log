@@ -1,6 +1,6 @@
 2023-01-25 11:21:54 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
 2023-01-25 11:21:54 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
-k
+kc
 2023-01-25 11:21:54 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
 2023-01-25 11:21:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
 2023-01-25 11:21:54 INFO  ApacheHttpClient.login(250) - Waiting for server response.
